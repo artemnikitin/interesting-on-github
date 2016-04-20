@@ -6,8 +6,6 @@ Collection of interesting repositories on Github
 - [Best practices](best_practices.md)
 - [Non-work related](non-work-related.md)
 
-### Libraries
-
 ### Tools 
 - [General](regular.md)
 - [Infrastructure](infrastructure.md)
