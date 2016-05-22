@@ -2,3 +2,4 @@
 Collection of interesting stuff for Go
 
 - https://github.com/bot-api - m0sth8 package for bots
+- https://github.com/arnauddri/algorithms - examples of algorithms and data strustures implementation in Go
