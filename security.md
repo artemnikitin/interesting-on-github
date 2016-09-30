@@ -1,5 +1,8 @@
 # Security
 
+### Guides
+- https://github.com/FallibleInc/security-guide-for-developers - security overview for developers
+
 ### Scanner
 - https://github.com/future-architect/vuls - vulnerability scanner, written in Go
 
