@@ -5,3 +5,4 @@ Collection of interesting stuff for Go
 - https://github.com/arnauddri/algorithms - examples of algorithms and data strustures implementation in Go
 - https://github.com/ardanlabs/gotraining - Go training materials
 - https://github.com/nathanjsweet/zsocket - zero socket syscall, unfortunately using C
+- https://github.com/google/btree - B-Tree implementation
