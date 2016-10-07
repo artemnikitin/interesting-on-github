@@ -1,7 +1,7 @@
 # interesting-on-github
 Collection of interesting repositories on Github
 
-### Interesting stuff for programming languages
+### Programming languages
 - [Go](go.md)    
 
 ### Knowledge:
