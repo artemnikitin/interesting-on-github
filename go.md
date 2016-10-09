@@ -3,7 +3,7 @@
 #### Articles, posts and other reading
 - http://golang.rakyll.org/go-tool-flags/ - flags for Go tools
 
-#### Collection of interesting packages for Go
+#### Interesting packages for Go
 - https://github.com/bot-api - m0sth8 package for bots
 - https://github.com/arnauddri/algorithms - examples of algorithms and data strustures implementation in Go
 - https://github.com/ardanlabs/gotraining - Go training materials
