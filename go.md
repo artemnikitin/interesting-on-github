@@ -12,3 +12,4 @@
 
 #### Tools
 - https://github.com/jedisct1/piknik - strange, but potentially interesting tool for copy\paste via network
+- https://github.com/Netflix/chaosmonkey - famous Chaos Monkey was rewritten in Go
