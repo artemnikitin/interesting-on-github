@@ -9,6 +9,7 @@
 - https://github.com/ardanlabs/gotraining - Go training materials
 - https://github.com/nathanjsweet/zsocket - zero socket syscall, unfortunately using C
 - https://github.com/google/btree - B-Tree implementation
+- https://github.com/eawsy/aws-lambda-go - Go for AWS Lambda
 
 #### Tools
 - https://github.com/jedisct1/piknik - strange, but potentially interesting tool for copy\paste via network
