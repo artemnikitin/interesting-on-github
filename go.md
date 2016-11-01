@@ -2,6 +2,7 @@
 
 #### Articles, posts and other reading
 - http://golang.rakyll.org/go-tool-flags/ - flags for Go tools
+- https://github.com/golang/go/wiki/CodeReviewComments - Principles for writting Go code from Google code review practice.
 
 #### Interesting packages for Go
 - https://github.com/bot-api - m0sth8 package for bots
