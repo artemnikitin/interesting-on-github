@@ -5,9 +5,7 @@ Collection of interesting repositories on Github
 - [Go](go.md)    
 
 ### Knowledge:
-- [Reading and learning](reading.md)
-- [Guides and tutorials](guide.md)
-- [Best practices](best_practices.md)
+- [Reading/Learning/Guides/Tutorials](guide.md)
 - [Non-work related](non-work-related.md)
 
 ### Tools 
