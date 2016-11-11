@@ -6,3 +6,4 @@
 - https://github.com/alex/what-happens-when - An answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - https://github.com/jwasham/google-interview-university - Prepare for Google interview
 - https://github.com/tlaplus/DrTLAPlus - distributed algorithms
+- https://github.com/FallibleInc/security-guide-for-developers - security overview for developers
