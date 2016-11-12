@@ -13,6 +13,7 @@
 - https://github.com/eawsy/aws-lambda-go - Go for AWS Lambda
 - https://github.com/eawsy/aws-lambda-go-net - Go for AWS Lambda + API Gateway
 - https://github.com/go-vgo/robotgo - Tool for desktop automation
+- https://github.com/y0ssar1an/q - Alternative to debugging, prints all values
 
 #### Tools
 - https://github.com/jedisct1/piknik - strange, but potentially interesting tool for copy\paste via network
