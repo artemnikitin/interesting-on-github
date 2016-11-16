@@ -3,6 +3,7 @@
 #### Articles, posts and other reading
 - http://golang.rakyll.org/go-tool-flags/ - flags for Go tools
 - https://github.com/golang/go/wiki/CodeReviewComments - Principles for writting Go code from Google code review practice.
+- https://aws.amazon.com/blogs/developer/mocking-out-then-aws-sdk-for-go-for-unit-testing/ - How to mock AWS SDK for testing
 
 #### Interesting packages for Go
 - https://github.com/bot-api - m0sth8 package for bots
