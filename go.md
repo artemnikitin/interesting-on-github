@@ -15,6 +15,8 @@
 - https://github.com/eawsy/aws-lambda-go-net - Go for AWS Lambda + API Gateway
 - https://github.com/go-vgo/robotgo - Tool for desktop automation
 - https://github.com/y0ssar1an/q - Alternative to debugging, prints all values
+- https://github.com/json-iterator/go - Alternative JSON parser
+- https://github.com/buger/jsonparser - Another JSON parser
 
 #### Tools
 - https://github.com/jedisct1/piknik - strange, but potentially interesting tool for copy\paste via network
