@@ -7,3 +7,4 @@
 - https://github.com/jwasham/google-interview-university - Prepare for Google interview
 - https://github.com/tlaplus/DrTLAPlus - distributed algorithms
 - https://github.com/FallibleInc/security-guide-for-developers - security overview for developers
+- https://github.com/humphd/have-fun-with-machine-learning - beginner's guide to Machine Learning and Image Classification with Neural Networks
