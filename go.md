@@ -7,6 +7,7 @@
 - https://aws.amazon.com/blogs/developer/mocking-out-then-aws-sdk-for-go-for-unit-testing/ - How to mock AWS SDK for testing
 - https://blog.gopheracademy.com/advent-2016/some-tools-for-go-that-you-might-not-know-yet - some interesting tools for Go
 - https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick - Nice trick about shrinking size of binaries
+- http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ - traps, gotchas, and common mistakes 
 
 #### Interesting packages for Go
 - https://github.com/bot-api - m0sth8 package for bots
