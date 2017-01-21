@@ -24,6 +24,7 @@
 - https://github.com/go-akka/akka - Implementation of Akka in Go, far from ready
 - https://github.com/go-akka/configuration - HOCON in Go, copy of Typesafe Config
 - https://github.com/alaska/shttp - guide how to build secure web server in Go
+- https://github.com/olebedev/go-tgbot - Telegram API generated from Swagger description
 
 #### Tools
 - https://github.com/jedisct1/piknik - strange, but potentially interesting tool for copy\paste via network
