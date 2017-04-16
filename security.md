@@ -9,3 +9,6 @@
 - https://github.com/darkoperator/dnsrecon
 - https://github.com/laramies/theHarvester
 - https://github.com/fwaeytens/dnsenum
+
+### VPN
+- https://github.com/trailofbits/algo - create your own VPN
