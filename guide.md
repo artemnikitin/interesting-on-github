@@ -9,6 +9,7 @@
 - https://github.com/FallibleInc/security-guide-for-developers - Security overview for developers
 - https://github.com/humphd/have-fun-with-machine-learning - Beginner's guide to Machine Learning and Image Classification with Neural Networks
 - https://redis.io/topics/distlock - Implementation of distributed lock based on Redis
+- https://github.com/kdn251/interviews - Yet another guide for preparing to interview
 
 # Books
 - https://hpbn.co/ - Overview of various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more)
