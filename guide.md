@@ -14,3 +14,4 @@
 # Books
 - https://hpbn.co/ - Overview of various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more)
 - https://landing.google.com/sre/book/index.html - book about SRE from Google
+- https://github.com/Checkmarx/Go-SCP - Go programming language secure coding practices guide
