@@ -15,8 +15,6 @@
 - https://github.com/ardanlabs/gotraining - Go training materials
 - https://github.com/nathanjsweet/zsocket - zero socket syscall, unfortunately using C
 - https://github.com/google/btree - B-Tree implementation
-- https://github.com/eawsy/aws-lambda-go - Go for AWS Lambda
-- https://github.com/eawsy/aws-lambda-go-net - Go for AWS Lambda + API Gateway
 - https://github.com/go-vgo/robotgo - Tool for desktop automation
 - https://github.com/y0ssar1an/q - Alternative to debugging, prints all values
 - https://github.com/json-iterator/go - Alternative JSON parser
